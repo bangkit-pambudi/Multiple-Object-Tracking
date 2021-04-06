@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1558866486 source:c:\users\lenovo\downloads\tubes\paket tubes asd\paket tubes asd\webcam test\main.cpp
+	<iostream>
+	<sstream>
+	<opencv2\highgui\highgui.hpp>
+	<opencv2\opencv.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<list>
+	"objek.h"
+
+1558864796 c:\users\lenovo\downloads\tubes\paket tubes asd\paket tubes asd\webcam test\objek.h
+	<string>
+	<opencv2\highgui\highgui.hpp>
+	<opencv2\opencv.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+
